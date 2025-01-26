@@ -113,6 +113,7 @@ Context
     :members:
     :member-order: bysource
 
+.. _click-api-types:
 
 Types
 -----
@@ -134,6 +135,7 @@ Types
 .. autoclass:: Path
 
 .. autoclass:: Choice
+   :members:
 
 .. autoclass:: IntRange
 
